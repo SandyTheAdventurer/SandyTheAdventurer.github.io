@@ -9,11 +9,11 @@ function MyInfo()
     <img src={logo} alt="Profile" className="profile-pic" />
     <p>I am Sandeep Suresh. I am an ML Engineer and I love Reinforcement Learning</p>
     <p>Check out my <br />
-      <a href="www.github.com/SandyTheAdventurer/" target='_blank'> Github</a>
+      <a href="https://github.com/SandyTheAdventurer/" target='_blank'> Github</a>
       <br />
-      <a href="www.linkedin.com/in/sandeep-suresh-17847428a/" target='_blank'> LinkedIn</a>
+      <a href="https://www.linkedin.com/in/sandeep-suresh-17847428a/" target='_blank'> LinkedIn</a>
       <br />
-      <a href="www.huggingface.co/SandyTheAdventurer" target='_blank'> Huggingface</a>
+      <a href="https://huggingface.co/SandyTheAdventurer" target='_blank'> Huggingface</a>
     </p>
     </div>
   );
